@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node bot.js"
   },
-  "author": "Akın",
+  "author": "320842708690272267",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
