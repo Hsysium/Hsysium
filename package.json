@@ -1,12 +1,12 @@
 {
-  "name": "hypersquad",
+  "name": "Hsysium",
   "version": "0.0.1",
   "description": "",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
   },
-  "author": "Talha Nehir",
+  "author": "Akın",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
